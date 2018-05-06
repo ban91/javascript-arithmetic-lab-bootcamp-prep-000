@@ -22,4 +22,6 @@ function dec(n) {
   return n -= 1
 }
 
-parseInt('2', 10)
+function makeInt(n) {
+  return n -= 1
+}
